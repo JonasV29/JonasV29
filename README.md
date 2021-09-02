@@ -1,7 +1,7 @@
 # Hello 🤙
 
 My Name is Jonas Vitório, i'm from Brazil.
-I'm a Computer Science and i'm studing since 2020
+I'm a Computer Science and i'm studing since 2020.
 I'm interested in applications front-end, security,
 database, and artificial intelligence.
 
