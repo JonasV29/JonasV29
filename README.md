@@ -1,6 +1,6 @@
 # Hello 🤙
 
-My Name is Jonas Vitório, i'm from Brazil :brazil:  i'm a Science Computer
+My Name is Jonas Vitório, i'm from Brazil 🇧🇷 I'm a Science Computer
 
 
 Here are some ideas to get you started:
