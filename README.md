@@ -1,7 +1,7 @@
 # Hello 🤙
 
-My Name is Jonas Vitório, i'm from Brazil 🇧🇷 I'm a Computer Science. I'm interested in applications front-end, security,
-database, and artificial intelligence 👨‍💻.
+My Name is Jonas Vitório, i'm from Brazil.I'm a Computer Science. I'm interested in applications front-end, security,
+database, and artificial intelligence 👨‍💻 🇧🇷.
 
 **Here are some ideas to get you started:
 
