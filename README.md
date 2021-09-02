@@ -9,6 +9,6 @@ database, and artificial intelligence 👨‍💻.
 
 
 -💻 I’m currently learning in JavaScript,C/C++ and Java
-- 🇺🇸 I have an intermediate english  🇺🇸 
+- 🇺🇸 I have an intermediate english 
 
 
