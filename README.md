@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hello 🤙
 
-<!--
-**JonasV29/JonasV29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Jonas Vitório, i'm from Brazil :brazil: i'm a Science Computer
+
 
 Here are some ideas to get you started:
 
