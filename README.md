@@ -8,7 +8,7 @@ database, and artificial intelligence.
 ## Here are some ideas to get you started:
 
 
- - 👨‍💻I’m currently learning in JavaScript,C/C++ and Java
+ - 👨‍💻I’m currently learning in JavaScript,C/C++, Python and Java
  - 💬I have an intermediate english 
 
 
