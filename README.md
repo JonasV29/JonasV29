@@ -5,7 +5,7 @@ I'm from Brazil, I'm interested in application front-end, security, database and
 ## Here are some ideas to get you started:
 
 
- - 👨‍💻I’m currently learning in JavaScript,C/C++, Html,Elixir and Java
+ - 👨‍💻I’m currently learning in JavaScript,C/C++, Html, and Java
  - 💬I have an intermediate english 
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasV29&show_icons=true&theme=dracula)
