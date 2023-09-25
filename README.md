@@ -10,7 +10,7 @@ I'm from Brazil, I'm interested in application front-end, security, database and
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasV29&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasV29&layout=compact)](https://github.com/JonasV29) 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonasV29&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonasV29) 
 
 ### Technologies I use on a daily basis:
 
