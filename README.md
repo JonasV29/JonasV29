@@ -1,12 +1,12 @@
 ### Hello, i'am Jonas Vitório 🤙
 
-I'm from Brazil, I'm interested in application front-end, security, database and artificial intelligence.
+I'm from Brazil, I'm interested in application front-end, database and artificial intelligence.
 
 ## Here are some ideas to get you started:
 
 
- - 👨‍💻I’m currently learning in JavaScript,C/C++, Html, and Java
- - 💬I have an intermediate english 
+ - 👨‍💻I’m currently learning in JavaScript,CSS, Html, and Java
+ - 💬I have an Advanced english 
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasV29&show_icons=true&theme=dracula)
 
