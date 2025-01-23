@@ -5,8 +5,8 @@ I'm from Brazil, I'm interested in application front-end, database and artificia
 ## Here are some ideas to get you started:
 
 
- - 👨‍💻I’m currently learning in JavaScript,CSS, Html, and Java
- - 💬I have an Advanced english 
+ - 👨‍💻I’m currently learning in JavaScript,CSS, Html, and Python
+ - 💬I have an Intermediate English 
 
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasV29&show_icons=true&theme=dracula)
 
